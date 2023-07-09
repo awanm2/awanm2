@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohsin Awan.
-- I do firmware for SSDs @ Solidigm. Previously I have been with Intel SSDs, Micron SSDs and Seagate HDDs. 
-- 👀 I’m interested in firmware engineering and systems programming..
+- I write firmware for SSDs @ Solidigm. Previously I have been with Intel SSDs, Micron SSDs and Seagate HDDs. 
+- 👀 I’m interested in firmware engineering and systems programming.
 - 🌱 I’m currently learning Rust and Linux Systems Programming. 
 - 📫 How to reach me :  [LinkedIn](https://www.linkedin.com/in/mohsin-awan-32590ba/)
 
